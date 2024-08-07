@@ -4,7 +4,7 @@ let pozdravi = [
     "Dobar dan",
     "Dobro jutro",
     "Dobro vece",
-    "Cao",
+    "Halo",
     "Hi",
     "Hej",
     "Hello",
