@@ -1,0 +1,6 @@
+let broj = 8;
+if (broj > 0) {
+  console.log("Broj 8 je veci od 0");
+} else {
+  console.log("Broj 8 nije veci od 0");
+}
