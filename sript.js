@@ -6,7 +6,7 @@ let pozdravi = [
     "Dobro veče",
     "Ćao",
     "Hi",
-    "Heej",
+    "Hej",
     "Hello",
     "Merhaba"
 ];
